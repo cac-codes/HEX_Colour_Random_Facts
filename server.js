@@ -18,7 +18,7 @@ let colorTrivia =  [
     color: "#663399",
     link: "http://meyerweb.com/eric/thoughts/2014/06/19/rebeccapurple/" },  
 
-    {fact: "In 2001, the X11 colout set was presented which aimed to name colours in CSS similiar to crayon set rather than through Hex Code. this colour 'indian red' named taken from a Crayola colour(though the crayon has since been renamed in response to the ethical cconsiderations).",
+    {fact: "In 2001, the X11 colour set was presented which aimed to name colours in CSS similiar to crayon set rather than through Hex Code. this colour 'indian red' named taken from a Crayola colour(though the crayon has since been renamed in response to the ethical cconsiderations).",
     color: "#CD5C5C",
     link: "https://en.wikipedia.org/wiki/Web_colors" },  
 
@@ -36,9 +36,9 @@ let colorTrivia =  [
     link: "http://orthomolecular.org/library/jom/1988/pdf/1988-v03n04-p202.pdf" },
 
 
-    {fact: "Judges in the middle ages dressed in red",
-    color: "#800020",
-    link: "https://press.princeton.edu/books/hardcover/9780691181363/blue"},
+    {fact: "Magenta on a computer screen is made by a similar formula to that used by Cennino Cennini in the Renaissance to make violet, but using additive colors and light instead of pigment",
+    color: "#FF00FF",
+    link: "https://en.wikipedia.org/wiki/Magenta"},
 
 
     {fact: "In the 15th century painting Saint Wolfgang and the Devil by Michael Pacher, the Devil is green",
