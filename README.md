@@ -1,2 +1,2 @@
 # hex_colour_random
-A quick project 
+A quick node.js experiment to randomly present a fact about different Hex-Colours
